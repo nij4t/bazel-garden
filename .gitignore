@@ -1,0 +1,5 @@
+bazel-bazel-garden
+bazel-bin
+bazel-out
+bazel-testlogs
+
