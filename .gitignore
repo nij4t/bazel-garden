@@ -1,3 +1,5 @@
+.vscode
+
 bazel-bazel-garden
 bazel-bin
 bazel-out
