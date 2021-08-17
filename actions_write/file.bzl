@@ -5,6 +5,7 @@ large files with a lot of static content, consider using
 `ctx.actions.expand_template` instead.
 """
 
+# Wrapper method that adds out based on target name
 def file(**kwargs):
     _file(out = "{name}.txt".format(**kwargs), **kwargs)
 
